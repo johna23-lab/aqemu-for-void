@@ -9,6 +9,8 @@ ninja
 strip aqemu
 ./aqemu
 ```
+The release version comes with the segmentation fault fixed, thanks to nikitamos for the fix
+https://github.com/nikitamos/aqemu
 
 I set up a [crowdfunding page for AQEMU](https://salt.bountysource.com/teams/aqemu), it will enable users to donate for the whole
 project and/or for individual issues. Please consider setting up a monthly donation.
